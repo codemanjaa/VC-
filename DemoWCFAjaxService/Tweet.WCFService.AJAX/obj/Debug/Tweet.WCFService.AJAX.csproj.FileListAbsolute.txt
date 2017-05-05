@@ -1,0 +1,16 @@
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\bin\Tweet.WCFService.AJAX.dll.config
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\bin\Tweet.WCFService.AJAX.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\bin\Tweet.WCFService.AJAX.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\bin\TweetBL.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\bin\TweetBL.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\obj\Debug\Tweet.WCFService.AJAX.csprojResolveAssemblyReference.cache
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\obj\Debug\Tweet.WCFService.AJAX.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\Tweet.WCFService.AJAX\obj\Debug\Tweet.WCFService.AJAX.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\bin\Tweet.WCFService.AJAX.dll.config
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\bin\Tweet.WCFService.AJAX.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\bin\Tweet.WCFService.AJAX.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\bin\TweetBL.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\bin\TweetBL.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\obj\Debug\Tweet.WCFService.AJAX.csprojResolveAssemblyReference.cache
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\obj\Debug\Tweet.WCFService.AJAX.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\Tweet.WCFService.AJAX\obj\Debug\Tweet.WCFService.AJAX.pdb

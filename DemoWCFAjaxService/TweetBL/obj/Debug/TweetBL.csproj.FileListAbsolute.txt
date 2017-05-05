@@ -1,0 +1,10 @@
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\TweetBL\bin\Debug\TweetBL.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\TweetBL\bin\Debug\TweetBL.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\TweetBL\obj\Debug\TweetBL.csprojResolveAssemblyReference.cache
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\TweetBL\obj\Debug\TweetBL.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\WCFAjaxServiceExample-master\TweetBL\obj\Debug\TweetBL.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\TweetBL\bin\Debug\TweetBL.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\TweetBL\bin\Debug\TweetBL.pdb
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\TweetBL\obj\Debug\TweetBL.csprojResolveAssemblyReference.cache
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\TweetBL\obj\Debug\TweetBL.dll
+C:\Users\a1600618\Documents\Visual Studio 2015\Projects\DemoWCFAjaxService\TweetBL\obj\Debug\TweetBL.pdb
